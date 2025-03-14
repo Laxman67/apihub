@@ -30,7 +30,7 @@
     "postcss": "^8.4.33",
     "tailwindcss": "^3.4.1",
     "typescript": "^5.2.2",
-    "vite": "^5.2.14"
+    "vite": "^5.4.12"
   },
   "resolutions": {
     "cross-spawn": "^7.0.5",
